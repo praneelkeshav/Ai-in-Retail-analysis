@@ -1,6 +1,6 @@
 ⚙️ Installation
 Clone the repository:
-git clone https://github.com/yourusername/ai-in-retail-logistic.git
+git clone https://github.com/praneelkeshav/ai-in-retail-logistic.git
 cd ai-in-retail-logistic
 Install required Python packages:
 
